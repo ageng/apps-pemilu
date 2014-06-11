@@ -3,6 +3,7 @@ Aplikasi Pemilu
 
 [![Build Status](https://travis-ci.org/ageng/apps-pemilu.svg?branch=master)](https://travis-ci.org/ageng/apps-pemilu)
 [![Code Climate](https://codeclimate.com/github/ageng/apps-pemilu.png)](https://codeclimate.com/github/ageng/apps-pemilu)
+[![I Love Open Source](http://www.iloveopensource.io/images/logo-lightbg.png)](http://www.iloveopensource.io/projects/5398d45d87659fce6600315c)
 
 Aplikasi yang dibuat berdasarkan Pemilu API
 
