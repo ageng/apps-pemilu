@@ -1,4 +1,4 @@
-apps-pemilu
+Aplikasi Pemilu
 ===========
 
-Aplikasi yang dibuat berdasarkan APIPemilu 
+Aplikasi yang dibuat berdasarkan Pemilu API
